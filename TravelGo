@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+
+<!-- Адаптивність -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>TravelGo - Подорожуй світом</title>
+</head>
+
+<body>
+
+<!-- HEADER -->
+<header>
+    <h1>TravelGo</h1>
+
+    <!-- Навігація -->
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Destinations</a></li>
+            <li><a href="#">Trip Planner</a></li>
+            <li><a href="#">Travel Tips</a></li>
+            <li><a href="#">Blog</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+
+<!-- MAIN CONTENT -->
+<main>
+
+<!-- Hero Section -->
+<section id="hero">
+    <h2>Відкрий світ разом з TravelGo</h2>
+    <p>Знайди нові місця та плануй свою подорож легко.</p>
+    <button>Почати подорож</button>
+</section>
+
+
+<!-- Popular Destinations -->
+<section id="destinations">
+    <h2>Популярні напрямки</h2>
+
+    <article>
+        <h3>Париж</h3>
+        <p>Місто романтики та культури.</p>
+    </article>
+
+    <article>
+        <h3>Токіо</h3>
+        <p>Сучасне місто з традиційною культурою.</p>
+    </article>
+
+    <article>
+        <h3>Нью-Йорк</h3>
+        <p>Місто, яке ніколи не спить.</p>
+    </article>
+
+</section>
+
+
+<!-- Travel Tips -->
+<section id="tips">
+    <h2>Поради для мандрівників</h2>
+
+    <article>
+        <h3>Як зібрати валізу</h3>
+        <p>Корисні поради для подорожей.</p>
+    </article>
+
+</section>
+
+
+<!-- Trip Planner -->
+<section id="planner">
+    <h2>Планування подорожі</h2>
+    <p>Скористайся нашим планувальником для створення ідеальної поїздки.</p>
+</section>
+
+
+<!-- Sidebar -->
+<aside>
+    <h3>Цікаві факти</h3>
+    <p>Щороку люди здійснюють понад 1 млрд подорожей.</p>
+</aside>
+
+
+<!-- FAQ -->
+<section id="faq">
+    <h2>FAQ</h2>
+
+    <article>
+        <h3>Як користуватися сайтом?</h3>
+        <p>Оберіть напрямок та почніть планувати подорож.</p>
+    </article>
+
+</section>
+
+</main>
+
+
+<!-- FOOTER -->
+<footer>
+    <p>© 2026 TravelGo</p>
+
+    <nav>
+        <a href="#">Instagram</a>
+        <a href="#">YouTube</a>
+        <a href="#">Email</a>
+    </nav>
+
+</footer>
+
+</body>
+</html>
